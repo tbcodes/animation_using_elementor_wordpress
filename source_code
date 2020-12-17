@@ -2,7 +2,7 @@ body {
 	overflow-x: hidden;
 }
 .elementor-shape-bottom {
-	bottom: -1px;
+	// bottom: -1px;
 	animation: wave 32s cubic-bezier(0.36, 0.45, 0.63, 0.53) infinite;
 	width: 210%;
 }
